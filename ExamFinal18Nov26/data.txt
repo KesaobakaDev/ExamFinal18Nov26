@@ -1,0 +1,40 @@
+DATA LOG
+******************************
+Customer Name: Kesa
+Product: Restonic Barbados
+VAT: R 85.8
+COMMISSION: R 28.6
+TOTAL: R 686.4
+******************************
+DATA LOG
+******************************
+Customer Name: Kesa
+Product: Restonic Barbados
+VAT: R 85.8
+COMMISSION: R 28.6
+TOTAL: R 686.4
+******************************
+DATA LOG
+******************************
+Customer Name: kesa
+Product: Restonic Barbados
+VAT: R 70092.6
+COMMISSION: R 23364.2
+TOTAL: R 560740.8
+******************************
+DATA LOG
+******************************
+Customer Name: kesq
+Product: Restonic Barbados
+VAT: R 36335.1
+COMMISSION: R 12111.7
+TOTAL: R 290680.8
+******************************
+DATA LOG
+******************************
+Customer Name: kesq
+Product: Restonic Barbados
+VAT: R 36335.1
+COMMISSION: R 12111.7
+TOTAL: R 290680.8
+******************************
